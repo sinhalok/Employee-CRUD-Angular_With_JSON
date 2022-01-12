@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "ewr",
+      "lastName": "sdf",
+      "email": "sdfg",
+      "mobile": 3,
+      "salary": 545
+    },
+    {
+      "id": 8,
+      "firstName": "Ratna",
+      "lastName": "Sinha",
+      "email": "ratna@gmail.com",
+      "mobile": 124124,
+      "salary": 2342342
+    },
+    {
+      "id": 9,
+      "firstName": "Alok",
+      "lastName": "Sinha",
+      "email": "a",
+      "mobile": 23,
+      "salary": 34243
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
